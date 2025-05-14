@@ -25,6 +25,7 @@ To design a seamless, visually appealing mobile app that:
 - Encourages healthy choices
 - Simplifies the ordering experience
 - Offers personalized meal suggestions
+- Offers flexible & convenient meal plan adjustments and delivery changes
 - Promotes trust through transparent nutritional info
 
 ---
