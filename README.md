@@ -1,5 +1,8 @@
 # 🥗 Flourish Delight – A Healthy Meal Delivery App
 
+![Alt Text](Mockup.png)
+
+
 **A UI/UX Case Study focused on making healthy eating easier and more delightful through a minimal, user-friendly mobile app experience.** 
 
 ---
